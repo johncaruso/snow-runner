@@ -1,1 +1,1 @@
-gs.print('Hello World!!!');
+gs.info('Hello World!!!');
